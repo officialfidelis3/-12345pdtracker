@@ -1,0 +1,41 @@
+.stApp {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.main-header {
+    text-align: center;
+    color: #0066cc;
+    padding: 1rem 0;
+    margin-bottom: 2rem;
+}
+
+.form-container {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+
+.data-table {
+    margin-top: 2rem;
+}
+
+.metric-container {
+    background-color: #ffffff;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.metric-value {
+    font-size: 24px;
+    font-weight: bold;
+    color: #0066cc;
+}
+
+.metric-label {
+    font-size: 14px;
+    color: #666;
+}
